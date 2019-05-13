@@ -11,27 +11,25 @@ INSTALLATION
 
 Please make sure the release file is unpacked under a Web-accessible directory. You shall see the following files and directories:
 
-app/
-bin/
-config/
-db/
-lib/
-log/
-public/
-storage/
-test/
-tmp/
-vendor/
-.gitignore
-.ruby-version
-4.3.1
-Gemfile
-Gemfile.lock
-README.md
-Rakefile
+app/  
+bin/  
+config/  
+db/  
+lib/  
+log/  
+public/  
+recordstore-front  
+storage/  
+test/  
+tmp/  
+vendor/  
+.gitignore  
+.ruby-version  
+Gemfile   
+Gemfile.lock    
+README.md    
+Rakefile    
 config.ru
-dump.rdb
-package.json
 
 REQUIREMENTS
 
