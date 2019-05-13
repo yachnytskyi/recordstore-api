@@ -5,7 +5,7 @@ Thanks for viewing the Record Store, it was created for learning and practice. R
 
 Build Status
 
-Record Store version 1.1
+Record Store version 0.8
 
 INSTALLATION
 
