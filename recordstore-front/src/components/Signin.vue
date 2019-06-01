@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
   <div class="max-w-sm m-auto my-8">
     <div class="border p-10 border-grey-light shadow rounded">
@@ -15,7 +16,7 @@
         </div>
         <button type="submit" class="font-sans font-bold px-4 rounded cursor-pointer no-underline bg-green hover:bg-green-dark block w-full py-4 text-white items-center justify-center">Sign In</button>
 
-        <div class="my-4"><router-link to="/signup" class="link-grey">Sign up</router-link></div>
+        <div class="my-4"><router-link to="/signup" class="link-grey">Sign In</router-link></div>
       </form>
     </div>
   </div>
@@ -66,4 +67,3 @@ export default {
   }
 }
 </script>
-/* eslint-disable */
