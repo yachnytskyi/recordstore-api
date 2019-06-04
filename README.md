@@ -5,7 +5,7 @@ Thanks for viewing the Record Store, it was created for learning and practice. R
 
 Build Status
 
-Record Store version 0.8
+Record Store version 1.1
 
 INSTALLATION
 
@@ -35,8 +35,7 @@ REQUIREMENTS
 
 The minimum requirement by Record Store is that your Web server supports Ruby 2.6.3 or above, and Rails 5.2.3 or above. You must install Vue.js 3.30 version or above. Record Store has been tested with the embedded Rails HTTP server in Manjaro. Please access the following URL to check if your Web server reaches the requirements by Record Store:
 
-http://localhost:3000
-
+http://localhost:8080
 QUICK START
 
 The Record Store starts from its root folder. When you first start, enter "bundle install" (all necessary gems will be installed). The server is started by the rails s command (or rails server)
