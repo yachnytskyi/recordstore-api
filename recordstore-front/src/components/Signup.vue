@@ -9,7 +9,7 @@
         <div class="mb-6">
           <label for="email" class="label">E-mail Address</label>
           <input type="email" v-model="email" class="input" id="email" placeholder="yachnytskyi1992@gmail.com">
-        </div>and
+        </div>
 
         <div class="mb-6">
           <label for="password" class="label">Password</label>
@@ -74,4 +74,3 @@ export default {
   }
 }
 </script>
-/* eslint-disable */
